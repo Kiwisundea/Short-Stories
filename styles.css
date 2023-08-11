@@ -1,0 +1,19 @@
+p {
+    color: red;
+}
+
+.red-text{
+    color:red;
+}
+
+#author {
+    color: darkgrey;
+}
+
+.green-text {
+    color: green;
+}
+
+.yellow-text{
+    color: yellow;
+}
